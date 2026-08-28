@@ -1,0 +1,11 @@
+{
+  "name": "Controle de Medicamentos",
+  "short_name": "Medicamentos",
+  "description": "Organizador de horários de medicamentos",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb",
+  "icons": []
+}

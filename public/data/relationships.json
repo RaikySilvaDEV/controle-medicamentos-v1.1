@@ -1,0 +1,15 @@
+{
+  "version": "1.1.0",
+  "relationships": [
+    {
+      "id": "rel-demo",
+      "patientId": "user-patient-demo",
+      "caregiverId": "user-caregiver-demo",
+      "relationship": "familiar",
+      "status": "approved",
+      "permissions": ["view", "alerts", "administer"],
+      "inviteCode": "DEMO-2026",
+      "createdAt": "2026-08-28T00:00:00.000Z"
+    }
+  ]
+}

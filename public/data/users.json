@@ -1,0 +1,23 @@
+{
+  "version": "1.1.0",
+  "users": [
+    {
+      "id": "user-patient-demo",
+      "name": "Paciente Demo",
+      "email": "paciente@demo.local",
+      "password": "demo123",
+      "role": "patient",
+      "onboardingCompleted": true,
+      "createdAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "user-caregiver-demo",
+      "name": "Acompanhante Demo",
+      "email": "acompanhante@demo.local",
+      "password": "demo123",
+      "role": "caregiver",
+      "onboardingCompleted": true,
+      "createdAt": "2026-08-28T00:00:00.000Z"
+    }
+  ]
+}

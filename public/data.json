@@ -1,0 +1,18 @@
+{
+  "version": "1.1.0",
+  "patients": [
+    {
+      "id": "patient-demo",
+      "name": "Paciente Demo",
+      "role": "patient",
+      "medications": [
+        {"id":"med-pred","name":"Acetato de prednisolona","type":"Colírio","interval":2,"unit":"hours","status":"waiting","firstTime":null,"relatedId":null,"offsetMinutes":0,"note":""},
+        {"id":"med-moxi","name":"Cloridrato de moxifloxacino","type":"Colírio","interval":3,"unit":"hours","status":"waiting","firstTime":null,"relatedId":null,"offsetMinutes":0,"note":""},
+        {"id":"med-dorz","name":"Cloridrato de dorzolamida","type":"Colírio","interval":12,"unit":"hours","status":"waiting","firstTime":null,"relatedId":null,"offsetMinutes":0,"note":""},
+        {"id":"med-brim","name":"Tartarato de brimonidina","type":"Colírio","interval":12,"unit":"hours","status":"waiting","firstTime":null,"relatedId":"med-dorz","offsetMinutes":7,"note":""}
+      ]
+    }
+  ],
+  "events": [],
+  "settings": {"sound":true,"notifications":false}
+}
